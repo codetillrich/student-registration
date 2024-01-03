@@ -5,7 +5,7 @@ The Student Registration System is a console-based application designed to manag
 ## Main Features:
 
 **Administrator Actions:** 
-  *Admin Login: (`<br>`)
+  * Admin Login: 
     -Administrators can log in using their credentials stored in the "adminCredentials.txt" file. (`<br>`)
     -Upon successful login, admins gain access to a set of administrative actions. (`<br>`)
   Create Student Account: (`<br>`)
