@@ -4,14 +4,14 @@ The Student Registration System is a console-based application designed to manag
 
 ## Main Features:
 
-Administrator Actions:
-Admin Login:
-Administrators can log in using their credentials stored in the "adminCredentials.txt" file.
-Upon successful login, admins gain access to a set of administrative actions.
-Create Student Account:
-Admins can create a new student account by providing necessary details such as student ID, password, name, date of birth, place of birth, major, and grade.
-The new student account is added to the system, and the data is stored in the "studentData.txt" file.
-View Student Account:
+**Administrator Actions:**
+  Admin Login:
+    -Administrators can log in using their credentials stored in the "adminCredentials.txt" file.
+    -Upon successful login, admins gain access to a set of administrative actions.
+  Create Student Account:
+    -Admins can create a new student account by providing necessary details such as student ID, password, name, date of           birth, place of birth, major, and grade.
+    -The new student account is added to the system, and the data is stored in the "studentData.txt" file.
+  View Student Account:
 Admins can view a list of all student accounts, displaying their student ID, name, major, and grade.
 Update Student Account:
 Admins can update the information of an existing student account by providing the student ID and entering the updated details.
