@@ -27,3 +27,18 @@ The Student Registration System is a console-based application designed to manag
     * Students can view their profile, displaying their student ID, password, name, date of birth, place of birth, major,          and grade.
   * Logout:
     * Students can log out of the system, ending the student session.
+## Utility Classes:
+  * User Class:
+    * An abstract class representing a user with common attributes (username and password) and methods for login, access level identification, and string representation.
+  * Admin Class:
+    * A subclass of the User class representing administrators. It includes methods for managing student data, deleting      student accounts, viewing student data, and checking admin status.
+  * Student Class:
+    * A subclass of the User class representing students. It includes attributes for student-specific information and methods for accessing and updating student data.
+  * FileUtils Class:
+    * A utility class providing methods for reading and writing administrator credentials and student data to files ("adminCredentials.txt" and "studentData.txt").
+  * StudentUtils Class:
+    * A utility class with a method for viewing student data in a map.
+  * LoginManager Class:
+    * A utility class providing methods for handling admin and student login operations.
+  * ReadFile Class:
+    * A utility class with a method for reading and printing the contents of text files.
