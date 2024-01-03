@@ -43,8 +43,8 @@ The Student Registration System is a console-based application designed to manag
   * ReadFile Class:
     * A utility class with a method for reading and printing the contents of text files.
 **Running the System:**
-* The main class, StudentRegistrationSystem, orchestrates the entire system. It initializes maps for admin and student accounts, prompts the user to choose between admin and student login, and executes the corresponding actions based on user input.
-* The system uses simple console-based interactions, making it accessible for users to perform necessary actions within the Student Registration System.
+  * The main class, StudentRegistrationSystem, orchestrates the entire system. It initializes maps for admin and student accounts, prompts the user to choose between admin and student login, and executes the corresponding actions based on user input.
+  * The system uses simple console-based interactions, making it accessible for users to perform necessary actions within the Student Registration System.
 **Note:**
-* Ensure that all required files ("adminCredentials.txt" and "studentData.txt") exist and contain the necessary data before running the system.
+  * Ensure that all required files ("adminCredentials.txt" and "studentData.txt") exist and contain the necessary data before running the system.
 
